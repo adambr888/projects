@@ -1,6 +1,5 @@
-from mimetypes import guess_extension
+
 import random
-from wsgiref.util import guess_scheme
 
 top_of_range = input("Type a number: ")
 
